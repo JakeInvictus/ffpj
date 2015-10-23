@@ -1,0 +1,15 @@
+// ----------------------------expressjs default------------------------------------
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+// -----------------------------------my styles----------------------------------------
+.row {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
